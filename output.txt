@@ -1,0 +1,37 @@
+Uno 0.19.6-OSX (build 816)
+
+Configuring
+(3,400.25 ms)
+
+Parsing source code
+(7,174.78 ms)
+
+Compiling syntax tree
+(20,475.92 ms)
+
+Generating code and data
+(34,420.20 ms)
+
+Building native target
+1/2: libPush.so
+2/2: Push-debug.apk
+
+BUILD FAILED
+/usr/local/Cellar/android-sdk/24.3.4/tools/ant/build.xml:597: The following error occurred while executing this line:
+/usr/local/Cellar/android-sdk/24.3.4/tools/ant/build.xml:649: The following error occurred while executing this line:
+/usr/local/Cellar/android-sdk/24.3.4/tools/ant/build.xml:694: null returned: 1
+
+Total time: 2 seconds
+(unknown): E0000: Native build failed
+(125,406.77 ms)
+
+Build completed in 190.89 seconds.
+    0 Warning(s)
+    1 Error(s)
+
+Error Summary
+-------------
+
+(unknown): E0000: Native build failed
+FATAL ERROR: Build failed.
+fuse: Errors were encountered while building the project
